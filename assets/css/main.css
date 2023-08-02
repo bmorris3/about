@@ -1432,7 +1432,7 @@ ul.pagination {
         ul.pagination li > .page.active:hover {
           background-color: #00fbff; }
         ul.pagination li > .page.active:active {
-          background-color: ##00fbff; }
+          background-color: #00fbff; }
     ul.pagination li:first-child {
       padding-right: 0.75em; }
     ul.pagination li:last-child {
